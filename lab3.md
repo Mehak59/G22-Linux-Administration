@@ -8,3 +8,5 @@ Solution:
    nano:
    ![image](https://github.com/user-attachments/assets/814a3470-af61-448d-9820-d3c672ca56b6)  
 3. Now use vim to edit the file.
+   ![image](https://github.com/user-attachments/assets/b65e274f-0258-48c2-957d-953d92bf0239)
+
