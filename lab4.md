@@ -11,8 +11,8 @@ Solution:
      
    ![image](https://github.com/user-attachments/assets/ff934cf8-5f14-4a39-8660-d84e8fc406f4)
    
+3. Change the default umask of operator1 user.
 
+   ![image](https://github.com/user-attachments/assets/4a224b12-3021-4f5b-a314-377432219d5c)
+   ![image](https://github.com/user-attachments/assets/0c7e9e77-3ef7-4cea-be85-4da722d9f3a2)
 
-     
-
-   
