@@ -13,6 +13,7 @@ Solution:
    
 3. Change the default umask of operator1 user.
 
+   ![Screenshot 2025-03-22 165040](https://github.com/user-attachments/assets/1ba4dd5e-ba4a-4993-8dab-cf9a896a1894)
    ![image](https://github.com/user-attachments/assets/4a224b12-3021-4f5b-a314-377432219d5c)
    ![image](https://github.com/user-attachments/assets/0c7e9e77-3ef7-4cea-be85-4da722d9f3a2)
 
