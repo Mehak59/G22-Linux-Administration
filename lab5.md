@@ -38,6 +38,18 @@ The kill command is used to send signals to processes.
 
 ![image](https://github.com/user-attachments/assets/fbcaa49a-e20d-40b8-97ee-fbb4f2be1fd6)  
 
-  
+apt-get:  
+The traditional command-line tool for advanced users.  
+
+1. Update the package list:
+![image](https://github.com/user-attachments/assets/fc71b1ac-3855-4f1c-bd29-92b297253650)
+
+2. Install a package:
+![image](https://github.com/user-attachments/assets/f7c04e75-96c8-4d43-9763-2d92277cfd84)
+
+3. Removing a package:
+![image](https://github.com/user-attachments/assets/5972a248-779b-4718-bbde-f54401d12c19)
+
+
 
 
